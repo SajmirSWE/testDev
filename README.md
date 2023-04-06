@@ -4,8 +4,6 @@ For the quiz application, I will be using the Waterfall development model
 
 - User Registration: Users should be able to register for an account on the quiz application by providing their name, email address, and password.
 
-- Quiz Creation: Users should be able to create quizzes by providing a title, description, and a set of questions with multiple-choice or true/false answers.
-
 - Quiz Taking: Users should be able to take quizzes created by other users or themselves and receive immediate feedback on their answers.
 
 - Leaderboard: Users should be able to view their scores and rankings on a leaderboard that displays the top-performing users.
@@ -15,8 +13,6 @@ For the quiz application, I will be using the Waterfall development model
 **Application Specifications:**
 
 - User Registration: The application will require users to create an account with a unique username and password. Users will be able to reset their password if they forget it.
-
-- Quiz Creation: Users will be able to create quizzes by providing a title, description, and a set of questions with multiple-choice or true/false answers. The application will validate the quiz questions and answers to ensure they are correct and formatted properly.
 
 - Quiz Taking: Users will be able to take quizzes created by other users or themselves and receive immediate feedback on their answers. The application will display the correct answers and the user's score at the end of the quiz.
 
