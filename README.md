@@ -6,7 +6,7 @@ For the quiz application, I will be using the Waterfall development model
 
 - Quiz Creation: Users should be able to create quizzes by providing a title, description, and a set of questions with multiple-choice or true/false answers.
 
--Quiz Taking: Users should be able to take quizzes created by other users or themselves and receive immediate feedback on their answers.
+- Quiz Taking: Users should be able to take quizzes created by other users or themselves and receive immediate feedback on their answers.
 
 - Leaderboard: Users should be able to view their scores and rankings on a leaderboard that displays the top-performing users.
 
