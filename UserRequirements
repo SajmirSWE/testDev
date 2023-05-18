@@ -1,26 +1,22 @@
-For the quiz application, I will be using the Waterfall development model
+User Registration: Allow users to create an account and provide their contact information, such as email or phone number, to receive subscription alerts.
 
-**User Requirements:**
+Subscription Management: Provide a user interface where users can add, edit, and delete their subscriptions. Each subscription entry should include details like the service name, renewal date, and payment information.
 
-- User Registration: Users should be able to register for an account on the quiz application by providing their name, email address, and password.
+Alert Configuration: Allow users to configure their alert preferences, such as the time and frequency of notifications (e.g., daily, weekly) and the preferred communication channel (e.g., email, SMS).
 
-- Quiz Taking: Users should be able to take quizzes created by other users or themselves and receive immediate feedback on their answers.
+Payment Reminders: Implement a feature to remind users of upcoming subscription renewals. You can send notifications a certain number of days before the renewal date based on the user's preferences.
 
-- Leaderboard: Users should be able to view their scores and rankings on a leaderboard that displays the top-performing users.
+Notification Channels: Support multiple communication channels for alerts, such as email, SMS, or push notifications to a mobile app. You'll need to integrate with respective APIs or services for each channel.
 
-- Social Sharing: Users should be able to share their quiz results on social media platforms.
+Notifications History: Maintain a history of sent notifications, including timestamps and the content of each notification. This feature helps users track and review past alerts.
 
-**Application Specifications:**
+Dashboard and Reports: Provide a user-friendly dashboard where users can view an overview of their active subscriptions, upcoming renewals, and payment status. Additionally, you can generate reports summarizing subscription expenses or other relevant metrics.
 
-- User Registration: The application will require users to create an account with a unique username and password. Users will be able to reset their password if they forget it.
+Integration with Payment Gateways: If possible, integrate with popular payment gateways to automatically retrieve subscription information and payment statuses, reducing the manual entry required by users.
 
-- Quiz Taking: Users will be able to take quizzes created by other users or themselves and receive immediate feedback on their answers. The application will display the correct answers and the user's score at the end of the quiz.
+Security and Privacy: Implement appropriate security measures to protect user data, including encryption of sensitive information and secure communication channels.
 
-- Leaderboard: The application will display the top-performing users on a leaderboard based on their scores. Users will be able to filter the leaderboard by quiz category or date range.
-
-- Social Sharing: Users will be able to share their quiz results on social media platforms such as Facebook, Twitter, and LinkedIn. The application will provide sharing buttons for each platform.
-
-
+User Support: Offer a support system, such as a help center or ticketing system, where users can seek assistance or report issues related to their subscriptions or the application itself.
 
 Subscription Alert Application
 
