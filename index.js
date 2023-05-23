@@ -12,7 +12,9 @@ search.addEventListener('click', () => {
     if (city === '')
         return;
 
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`) 
+   
+    
         .then(response => response.json())
         .then(json => {
 
@@ -36,23 +38,23 @@ search.addEventListener('click', () => {
 
             switch (json.weather[0].main) {
                 case 'Clear':
-                    image.src = 'downloads/clear.png';
+                    image.src = 'Downloads/clear.png';
                     break;
 
                 case 'Rain':
-                    image.src = 'downloads/rain.png';
+                    image.src = 'Downloads/rain.png';
                     break;
 
                 case 'Snow':
-                    image.src = 'downloads/snow.png';
+                    image.src = 'Downloads/snow.png';
                     break;
 
                 case 'Clouds':
-                    image.src = 'downloads/cloud.png';
+                    image.src = 'Downloads/cloud.png';
                     break;
 
                 case 'Haze':
-                    image.src = 'downloads/mist.png';
+                    image.src = 'Downloads/mist.png';
                     break;
 
                 default:
