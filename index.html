@@ -1,1 +1,26 @@
-swe project
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subscription Alert</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Subscription Alert</h1>
+  
+  <div id="subscriptionForm">
+    <h2>Add Subscription</h2>
+    <input type="text" id="nameInput" placeholder="Name">
+    <input type="text" id="emailInput" placeholder="Email">
+    <input type="text" id="serviceInput" placeholder="Service">
+    <input type="date" id="renewalDateInput">
+    <button onclick="addSubscription()">Add</button>
+  </div>
+
+  <div id="subscriptionList">
+    <h2>Subscriptions</h2>
+    <ul id="subscriptionsUl"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

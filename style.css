@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #subscriptionForm {
+    margin-bottom: 20px;
+  }
+  
+  #subscriptionList {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  li span {
+    font-weight: bold;
+  }
+  
+  
