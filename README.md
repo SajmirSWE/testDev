@@ -13,3 +13,6 @@ This is all about the SWE project.
 Note (***Reference***) I have taken a specific part of the JavaScript code which contained JSON from a project called *100 days of JavaScript*
 
 Hope you enjoy ☺️
+
+![image](https://github.com/SajmirSWE/testDev//assets/images/Tirana Weather.png)
+
