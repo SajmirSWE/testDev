@@ -2,12 +2,8 @@
 
 - Location-based Services: Users expect the weather application to automatically detect their location or provide an option to manually enter a location. The application should display weather information specific to the selected location.
 
-- Multiple Locations: Users may want to track weather conditions for multiple locations simultaneously. The application should allow them to save and easily switch between different locations.
-
 - Visual Representations: Users prefer intuitive and visually appealing representations of weather data. This can include icons or images representing different weather conditions (sunny, cloudy, rainy, etc.), graphs showing temperature trends, or color-coded indicators for different weather aspects.
 
 - Historical Data: Some users may be interested in accessing historical weather data for a particular location. The application could offer access to past weather information to fulfill this requirement.
-
-- Additional Features: Users appreciate extra features like radar maps, satellite imagery, UV index, air quality index, pollen count, sunrise/sunset times, and other relevant weather-related information. Including these features can enhance the overall user experience.
 
 - Responsive Design: Users expect the weather application to be accessible on various devices, including desktop computers, tablets, and mobile phones. The application should have a responsive design that adapts to different screen sizes and provides a seamless user experience.
