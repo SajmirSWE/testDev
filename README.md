@@ -6,7 +6,7 @@ This file is for the sole purpose of opening the application on your local compu
 - Fourth step: ***Copy the CSS code from the GitHub and paste it in VS Code and save the file as style.css.***
 - Fifth step: ***Copy the JavaScript code from the GitHub and paste it in VS Code and save the file as index.js.***
 - Sixth step: ***The images of the weather conditions should be with the respective location as you downloaded them in your local computer, 
-            otherwise there will not be visualizations of the weather.***
+            otherwise there will not be visualizations of the weather depending on the place which you will input.***
 
 This is all about the SWE project.
 
