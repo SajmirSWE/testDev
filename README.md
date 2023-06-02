@@ -14,5 +14,5 @@ Note (***Reference***) I have taken a specific part of the JavaScript code which
 
 Hope you enjoy ☺️
 
-![image](https://github.com/SajmirSWE/testDev//assets/images/Tirana Weather.png)
+![image](https://github.com/SajmirSWE/testDev//assets/images/TiranaWeather.png)
 
